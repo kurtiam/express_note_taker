@@ -9,7 +9,7 @@
 
 ##  Description 
 
- Note taking app made with node.js and express that Saves and Delete notes. 
+ Note taking app made with node.js and express that Saves and Deletes online notes. 
 
  Live Demo hosted at Heroku - https://protected-falls-99280.herokuapp.com/
  
